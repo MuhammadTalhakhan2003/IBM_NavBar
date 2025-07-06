@@ -18,7 +18,7 @@ This project replicates the global navigation interface of IBM's official site. 
 
 ## 🖥️ Live Demo
 
-> 🔗 Coming soon (or include your Netlify/Vercel link here)
+> 🔗[(Netlify link here](https://grand-pasca-57e1f4.netlify.app/))
 
 ## 📂 Project Structure
 
